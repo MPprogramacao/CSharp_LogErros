@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\Projetos\C#\Logs\CSharp_LogErros\bin\Debug\netcoreapp3.1\CSharp_LogErros.exe
+C:\Users\Matheus\Desktop\Projetos\C#\Logs\CSharp_LogErros\bin\Debug\netcoreapp3.1\CSharp_LogErros.deps.json
+C:\Users\Matheus\Desktop\Projetos\C#\Logs\CSharp_LogErros\bin\Debug\netcoreapp3.1\CSharp_LogErros.runtimeconfig.json
+C:\Users\Matheus\Desktop\Projetos\C#\Logs\CSharp_LogErros\bin\Debug\netcoreapp3.1\CSharp_LogErros.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\Projetos\C#\Logs\CSharp_LogErros\bin\Debug\netcoreapp3.1\CSharp_LogErros.dll
+C:\Users\Matheus\Desktop\Projetos\C#\Logs\CSharp_LogErros\bin\Debug\netcoreapp3.1\CSharp_LogErros.pdb
+C:\Users\Matheus\Desktop\Projetos\C#\Logs\CSharp_LogErros\obj\Debug\netcoreapp3.1\CSharp_LogErros.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Projetos\C#\Logs\CSharp_LogErros\obj\Debug\netcoreapp3.1\CSharp_LogErros.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Projetos\C#\Logs\CSharp_LogErros\obj\Debug\netcoreapp3.1\CSharp_LogErros.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Projetos\C#\Logs\CSharp_LogErros\obj\Debug\netcoreapp3.1\CSharp_LogErros.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Projetos\C#\Logs\CSharp_LogErros\obj\Debug\netcoreapp3.1\CSharp_LogErros.dll
+C:\Users\Matheus\Desktop\Projetos\C#\Logs\CSharp_LogErros\obj\Debug\netcoreapp3.1\CSharp_LogErros.pdb
+C:\Users\Matheus\Desktop\Projetos\C#\Logs\CSharp_LogErros\obj\Debug\netcoreapp3.1\CSharp_LogErros.genruntimeconfig.cache
